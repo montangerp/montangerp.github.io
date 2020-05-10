@@ -6,7 +6,7 @@ excerpt:
 date: 2020-04-04
 venue: 'Revista Brasileira de Iniciação Científica'
 paperurl: 'https://periodicos.itp.ifsp.edu.br/index.php/IC/article/view/1736/1223'
-citation: 'Your Name, You. (2020). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Montanger P.O. (2020). &quot;Programa computacional para a identificação automática de exoplanetas.&quot; <i>Revista Brasileira de Iniciação Científica</i>. 1(2).'
 ---
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
