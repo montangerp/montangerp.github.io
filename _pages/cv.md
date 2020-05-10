@@ -29,7 +29,11 @@ Awards
 ======
 * Honorable Mention Certificate for presenting the work entitled Automatic Classifcation of Astronomical Objects Using Time Series Analysis.
 
-
 Service and leadership
 ======
 * 13th Brazilian Symposium on Physical Engineering, 2018.
+
+[CV Lattes](http://lattes.cnpq.br/1280600292280893)
+======
+
+
