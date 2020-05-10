@@ -10,9 +10,7 @@ locale                   : "pt-BR"
 title                    : "Montanger"
 title_separator          : "-"
 name                     : &name "Patricia Oliveira Montanger"
-description              : &description "Physical Engineering student
-UNILA 
-Exoplanets"
+description              : &description "Physical Engineering student at UNILA"
 url                      : https://montangerp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "montangerp.github.io"
@@ -84,9 +82,7 @@ analytics:
 author:
   name             : "Patricia Oliveira Montanger"
   avatar           : "PHOTO-2019-03-26-22-59-35.jpg"
-  bio              : "Physical Engineering student
-  UNILA
-  Exoplanets"
+  bio              : "Physical Engineering student at UNILA"
   location         : "Brasil"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -100,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "montangerp"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/patriciamontanger/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -219,9 +215,9 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -241,13 +237,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  #- scope:
-   #   path: ""
-    #  type: talks
-   # values:
-    #  layout: talk
-     # author_profile: true
-     # share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
