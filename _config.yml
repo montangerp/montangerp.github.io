@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Montanger"
+title                    : "PM"
 title_separator          : "-"
 name                     : &name "Patricia Oliveira Montanger"
 description              : &description "Physical Engineering student at UNILA."
