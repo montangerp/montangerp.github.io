@@ -31,7 +31,7 @@ Awards
 
 CV Lattes
 ======
- <ul>{% for post site.lattes%}
+ <ul>{% for post site.lattes %}
    {% include archive-single-lattes.html %}
   {% endfor %}</ul>
  
