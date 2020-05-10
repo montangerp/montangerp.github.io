@@ -10,7 +10,7 @@ locale                   : "pt-BR"
 title                    : "Montanger"
 title_separator          : "-"
 name                     : &name "Patricia Oliveira Montanger"
-description              : &description "Physical Engineering student at UNILA"
+description              : &description "Physical Engineering student at UNILA."
 url                      : https://montangerp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "montangerp.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Patricia Oliveira Montanger"
   avatar           : "PHOTO-2019-03-26-22-59-35.jpg"
-  bio              : "Physical Engineering student at UNILA"
+  bio              : "Physical Engineering student at UNILA."
   location         : "Brasil"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
