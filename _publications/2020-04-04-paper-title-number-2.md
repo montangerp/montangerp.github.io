@@ -1,7 +1,7 @@
 ---
 title: "Programa computacional para a identificação automática de exoplanetas"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2020-04-04-paper-title-number-2
 excerpt: 
 date: 2020-04-04
 venue: 'Revista Brasileira de Iniciação Científica'
