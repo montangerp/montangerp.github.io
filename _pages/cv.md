@@ -33,7 +33,7 @@ Service and leadership
 ======
 * 13th Brazilian Symposium on Physical Engineering, 2018.
 
-[CV Lattes](http://lattes.cnpq.br/1280600292280893)
+[CV Lattes](1280600292280893)
 ======
 
 
