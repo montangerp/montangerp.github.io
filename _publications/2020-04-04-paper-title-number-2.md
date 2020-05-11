@@ -7,4 +7,4 @@ date: 2020-04-04
 venue: 'Revista Brasileira de Iniciação Científica'
 paperurl: 'https://periodicos.itp.ifsp.edu.br/index.php/IC/article/view/1736'
 ---
-Download paper [here](http://montangerp.github.io/paper2.pdf)
+
