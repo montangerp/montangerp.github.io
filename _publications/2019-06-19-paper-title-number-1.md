@@ -7,4 +7,3 @@ date: 2019-06-19
 venue: 'Revista Brasileira de Iniciação Científica'
 paperurl: 'https://periodicos.itp.ifsp.edu.br/index.php/IC/article/view/1538'
 ---
-Download paper [here](http://montangerp.github.io/paper1.pdf)
