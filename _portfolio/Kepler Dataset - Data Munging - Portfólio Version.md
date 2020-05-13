@@ -10,7 +10,7 @@ Neste notebook é realizado o processo de limpeza, reestruturação e reformata�
 
 Os dados utilizados são curvas de luz provenientes de milhares de estrelas e adquiridas através do telescópio **Kepler**, onde cada ponto da curva representa a magnitude da estrela em função do tempo. Queremos obter uma quantidade significativa de curvas, para posteriormente realizar pesquisas para encontrar padrões nas séries temporais e utiliza-las em algoritmos de machine learning, auxiliando assim os astronômos na identificação de exoplanetas.
     
-<img src="imagens/esolc.jpg" style="width:500px;height:400px"/>
+<img src="esolc.jpg" style="width:500px;height:400px"/>
 
 <div style="text-align: center"><a href="https://www.eso.org/public/images/eso1023f/" target="_blank"> Fonte </a>       </div>
 
@@ -50,7 +50,7 @@ Quarters**
 
 
 
-<img src="imagens/exoarchive.png"  style="width:800px;height:400px"/>
+<img src="exoarchive.png"  style="width:800px;height:400px"/>
 
 <div style="text-align: center"><a href="https://exoplanetarchive.ipac.caltech.edu/" target="_blank"> Fonte </a>       </div>
 
