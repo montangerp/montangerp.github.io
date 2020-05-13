@@ -1,6 +1,6 @@
 ---
 title: "Kepler Dataset - Data Munging"
-excerpt: "<br/><img src='esolc.jpg'>"
+excerpt: "<br/><img src='esolc.jpg' style="width:500px;height:300px">"
 collection: portfolio
 ---
 
