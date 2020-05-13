@@ -1,3 +1,8 @@
+---
+title: "Kepler Dataset - Data Munging
+excerpt: "<br/><img src='/images/esolc.png'>"
+collection: portfolio
+---
 
 This notebook was prepared by <a href="https://montangerp.github.io/" target="_blank"> Patricia Montanger</a>. Source and license info is on <a href="https://github.com/montangerp" target="_blank">GitHub</a>. <br>
 This research made use of <a href="https://docs.lightkurve.org/index.html" target="_blank">Lightkurve</a>, a Python package for Kepler and TESS data analysis (Lightkurve Collaboration, 2018).
