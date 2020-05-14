@@ -218,7 +218,7 @@ plt.show()
 ```
 
 
-<img src='output_13_0.png'>
+src="output_13_0.png"
 
 
 
