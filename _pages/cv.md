@@ -16,8 +16,10 @@ Education
 Skills
 ======
 * Python
-  * Time Series
-* Data Mining
+  * Time Series Analysis
+  * Shapelets
+* SQL
+  * [Introduction to SQL] (https://www.datacamp.com/statement-of-accomplishment/course/1f1234405fd85ca19edcdd87d456daa7b46082b9)
 
 Publications
 ======
