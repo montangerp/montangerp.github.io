@@ -18,12 +18,10 @@ Skills
 * Python
   * Time Series Analysis
   * Shapelets
-  * Image Processing
-  * Data Mining
-    * Cleaning Data
+  * [Image Processing](https://www.dropbox.com/s/jfmef1tqgmlzmit/certificateIP.pdf?dl=0)
+  * [Cleaning Data]()
 * SQL
-  * Introduction to SQL 
-  <img src='/images/introsql.png' width='250'>
+  * [Introduction to SQL](https://www.dropbox.com/s/j7wvxlk0qh7uats/certificateSQL.pdf?dl=0)
   
 Publications
 ======
