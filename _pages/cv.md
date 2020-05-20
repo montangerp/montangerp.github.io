@@ -18,9 +18,12 @@ Skills
 * Python
   * Time Series Analysis
   * Shapelets
+  * Image Processing
+  * Data Mining
+    * Cleaning Data
 * SQL
-  * [Introduction to SQL](https://www.datacamp.com/statement-of-accomplishment/course/1f1234405fd85ca19edcdd87d456daa7b46082b9)
-
+  * Introduction to SQL <img src='/introsql.png' width='250'>
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
