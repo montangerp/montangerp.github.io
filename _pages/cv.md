@@ -22,7 +22,8 @@ Skills
   * Data Mining
     * Cleaning Data
 * SQL
-  * Introduction to SQL <img src='/introsql.png' width='250'>
+  * Introduction to SQL 
+  <img src='/images/introsql.png' width='250'>
   
 Publications
 ======
